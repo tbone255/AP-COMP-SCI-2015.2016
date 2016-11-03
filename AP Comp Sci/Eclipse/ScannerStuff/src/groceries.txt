@@ -1,0 +1,5 @@
+apple 10 .99
+cat 1000 50
+orange 7 1
+lunchbox 10 2
+broom 1 5
